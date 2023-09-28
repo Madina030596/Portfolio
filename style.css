@@ -144,7 +144,7 @@ canvas {
     user-select: none;
 }
 
-.wrapper__heading h2 {
+.wrapper__heading h1 {
     color: teal;
     font-size: 2.5rem;
     text-transform: uppercase;
@@ -504,7 +504,7 @@ footer .wrapper {
         margin-bottom: 30px;
     }
 
-    .wrapper__heading h2 {
+    .wrapper__heading h1 {
         font-size: 1.6rem;
     }
 
@@ -514,7 +514,7 @@ footer .wrapper {
 
     .flex__inner_space {
         margin: 0 0 1.5rem 0 ;
-    } 
+    }
 
     .img-container {
         display: flex;
@@ -588,7 +588,7 @@ footer .wrapper {
 }
 
 @media all and (max-width: 580px) and (orientation: landscape) {
-    .wrapper__heading h2 {
+    .wrapper__heading h1 {
         font-size: 2rem;
     }
 
