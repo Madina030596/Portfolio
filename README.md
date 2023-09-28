@@ -12,7 +12,7 @@
 - GSAP
 
 #### Портфолио
-[madina030596.github.io/Portfolio/](madina030596.github.io/Portfolio/)
+[madina030596.github.io/Portfolio/](https://madina030596.github.io/Portfolio/)
 
 #### Контакты
 [Почта](didarhanova.madina@mail.ru)
