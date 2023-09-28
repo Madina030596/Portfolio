@@ -15,7 +15,7 @@
 [madina030596.github.io/Portfolio/](https://madina030596.github.io/Portfolio/)
 
 #### Контакты
-[Ссылка](https://didarhanova.madina@mail.ru)
-[Почта](https://didarkhanova.madina@gmail.com)
+[Почта](https://didarhanova.madina@mail.ru)
+[CC](https://index154@gmail.com)
 
 [Телеграм](https://t.me/madina030596)
