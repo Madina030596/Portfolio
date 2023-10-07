@@ -7,7 +7,7 @@
 #### Навыки 
 - HTML5
 - CSS3
-- JS
+- JavaScript
 - FIGMA
 - GSAP
 
