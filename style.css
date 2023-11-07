@@ -299,6 +299,10 @@ canvas {
     margin-bottom: 5%;
 }
 
+.form-container__form textarea {
+    resize: vertical;
+}
+
 .btn {
     font-size: 1.1rem;
     border: 2px solid #d7236e;
